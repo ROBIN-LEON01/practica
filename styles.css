@@ -1,0 +1,63 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(59, 57, 57, 0.5);
+    margin: 0;
+}
+
+button{
+    margin: 30px;
+    width: 90px;
+    border-radius: 7px;
+    color: #000;
+    padding: 6px;
+}
+
+
+
+.box_containty{
+    display: none;
+    /* margin: 30px; */
+    background-color: rgb(79, 138, 228 , 0.7);
+    height: 90vh;
+
+}
+#miButon{
+    font-size: 20px;
+    border: none;
+}
+
+.boton{
+    /* display: none; */
+    /* background-color: #48e; */
+    padding: 40px;
+}
+
+.list{
+    padding: 50px;
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    transition: 0.2s ;
+    color: #aff;
+}
+a:hover{
+    border-radius: 7px;
+    color: rgb(155, 17, 40);
+    /* background-color: rgb(176, 182, 187); */
+}
+
+#butonItem{
+    display: none;
+    /* color: #48e; */
+}
+
